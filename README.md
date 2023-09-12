@@ -4,7 +4,7 @@
 I'm a graduate in ICT Engineering with a passion for programming and pole vaulting.
 
 ## Experience
-I have over 5 years of experience in programming, with a special focus on Visual Basic. During this time, I have worked on various projects and gained solid skills in software development using this language.
+I have over 5 years of experience in programming, with a special focus on Visual Basic .Net. During this time, I have worked on various projects and gained solid skills in software development using this language and others like C#, Java, HTML, Python.
 
 ## Passion for Pole Vaulting
 In addition to my dedication to programming, pole vaulting is my true passion. I love the challenge and excitement that this sport offers. Over the years, I have participated in competitions and worked hard to improve my technique and surpass my own records.
